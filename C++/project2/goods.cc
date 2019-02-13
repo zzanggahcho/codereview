@@ -8,7 +8,7 @@ void Goods::SetGoodsInfo(int index, int price) {
 
 // Return index information
 int Goods::GetIndex() {
-  return goods_index_;
+  return goods_index____;
 }
 
 // Return price informaiton
